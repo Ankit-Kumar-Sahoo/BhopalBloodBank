@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1083934821965",
+    "project_id": "bhopal-blood-bank",
+    "storage_bucket": "bhopal-blood-bank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083934821965:android:b2f758dd3531ddc93d5604",
+        "android_client_info": {
+          "package_name": "com.ankitkumarsahoo.bhopalbloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083934821965-mken0sh9qpsss4kbse443gs5045f8gko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ankitkumarsahoo.bhopalbloodbank",
+            "certificate_hash": "09a61f5a873e790344f9fe388c2a6ae405e7b195"
+          }
+        },
+        {
+          "client_id": "1083934821965-nm1d6g1frdln1eiqav39q1k7b7hmcpap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAir8W4GLbD_wX_X0RGhwUByUjTti7P63I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083934821965-nm1d6g1frdln1eiqav39q1k7b7hmcpap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

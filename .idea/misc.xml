@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AKS/Source Code/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/drawable/navigation_selector.xml" value="0.2385" />
+        <entry key="..\:/AKS/Source Code/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/drawable/navigation_view_item_selected.xml" value="0.2385" />
+        <entry key="..\:/AKS/Source Code/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/layout/activity_donar_registration.xml" value="0.23229166666666667" />
+        <entry key="..\:/AKS/Source Code/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/layout/activity_login.xml" value="0.23229166666666667" />
+        <entry key="..\:/AKS/Source Code/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/layout/activity_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/AKS/Source Code/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/layout/activity_profile.xml" value="0.23229166666666667" />
+        <entry key="..\:/AKS/Source Code/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/layout/activity_recipient_registration.xml" value="0.23229166666666667" />
+        <entry key="..\:/AKS/Source Code/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/layout/activity_select_registration.xml" value="0.23229166666666667" />
+        <entry key="..\:/AKS/Source Code/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/layout/activity_splash_screen.xml" value="0.23229166666666667" />
+        <entry key="..\:/AKS/Source Code/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/layout/header.xml" value="0.23229166666666667" />
+        <entry key="..\:/AKS/Source Code/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/layout/user_displayed_layout.xml" value="0.23229166666666667" />
+        <entry key="..\:/AKS/Source Code/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/menu/main_menu.xml" value="0.23229166666666667" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/drawable/buttons_background.xml" value="0.1" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/drawable/header_background.xml" value="0.1" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/drawable/ic_about.xml" value="0.1" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/drawable/ic_check.xml" value="0.1" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/drawable/ic_gmail.xml" value="0.1" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/drawable/ic_id.xml" value="0.1175925925925926" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/drawable/ic_lock.xml" value="0.1" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/drawable/ic_mail.xml" value="0.1175925925925926" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/drawable/ic_myfeed.xml" value="0.1" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/drawable/ic_notifications.xml" value="0.1" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/drawable/ic_password.xml" value="0.1" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/drawable/ic_person.xml" value="0.1175925925925926" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/drawable/ic_phone.xml" value="0.1175925925925926" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/drawable/ic_profile.xml" value="0.1" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/drawable/navigation_selector.xml" value="0.1" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/drawable/navigation_view_item_selected.xml" value="0.1" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/layout/activity_donar_registration.xml" value="0.264" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/layout/activity_profile.xml" value="0.4" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/layout/activity_recipient_registration.xml" value="0.1" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/layout/activity_select_registration.xml" value="0.1206896551724138" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/layout/activity_splash_screen.xml" value="0.176" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/layout/header.xml" value="0.264" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/layout/user_displayed_layout.xml" value="0.25" />
+        <entry key="..\:/ANDROID/Personal Projects/BhopalBloodBank/app/src/main/res/menu/main_menu.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
